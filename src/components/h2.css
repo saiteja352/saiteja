@@ -1,0 +1,14 @@
+@media only screen and (min-width:768px){
+    #l1{
+        margin-left: 70px;
+    }
+    #l2{
+        margin-left: 90px;
+    }
+    #l3{
+        margin-left: 80px;
+    }
+}
+#main{
+    margin-top: -32px;
+}

@@ -1,0 +1,24 @@
+.tb{
+    position: absolute;
+    top: 70px;
+    left: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#ss{
+    position: relative;
+    font-family: Arial;
+}
+.teja{
+    color:red;
+    font-size: 30px;
+}
+.deo{
+    color: green;
+    font-size: 30px;
+}
+#es1{
+    background-color: whitesmoke;
+}
